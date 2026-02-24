@@ -12,9 +12,9 @@
 
 ### 👨‍💻 About Me
 
-🎓 I am a Computer Science and Engineering student at the Indian Institute of Information Technology, Dharwad
-💬 Ask me about React, Node, and Docker
-📫 Reach me at: [shreedharkb4@gmail.com](mailto:shreedharkb4@gmail.com) 
+- 🎓 I am a Computer Science and Engineering student at the Indian Institute of Information Technology, Dharwad
+- 💬 Ask me about React, Node, and Docker
+- 📫 Reach me at: [shreedharkb4@gmail.com](mailto:shreedharkb4@gmail.com) 
 
 
   </div>
@@ -24,11 +24,9 @@
 
 ### 🧠 Learning & Growth
 
-🛠️  Building reliable software solutions and integrating cloud platforms to solve real-world challenges
-🔐  Building side projects on secure, scalable backend systems
-🧩  Expanding my knowledge in operating systems and networking architectures
-
----
+- 🛠️ Building reliable software solutions and integrating cloud platforms to solve real-world challenges
+- 🔐 Building side projects on secure, scalable backend systems
+- 🧩 Expanding my knowledge in operating systems and networking architectures
 
 ### 🌐 Connect With Me
 
