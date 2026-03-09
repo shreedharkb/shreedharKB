@@ -37,7 +37,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,express,tailwind,docker,git,linux,mongodb,mysql,postman,powershell,latex,anaconda" alt="Shreedhar's Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,express,tailwind,docker,git,linux,mongodb,mysql,postman,powershell,latex,anaconda, jenkins" alt="Shreedhar's Tech Stack" />
 </p>
 
 
