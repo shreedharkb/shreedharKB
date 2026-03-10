@@ -29,5 +29,5 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,express,tailwind,docker,git,linux,mongodb,mysql,postman,powershell,latex,anaconda,linux,jenkins,notion,postgres,prisma,redis,vercel,vscode" alt="Shreedhar's Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,express,tailwind,docker,git,linux,mongodb,mysql,postman,powershell,latex,anaconda,windows,jenkins,notion,postgres,prisma,redis,vercel,vscode" alt="Shreedhar's Tech Stack" />
 </p>
