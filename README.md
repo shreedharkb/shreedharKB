@@ -3,7 +3,7 @@
 <h1 align="center">Hello Everyone, I'm Shreedhar K B</h1>
 
 <ul>
-  <li>Engineering Student at Indian Institute of Information Technology - Dharwad (IIIT)</li>
+  <li>Engineering Student at Indian Institute of Information Technology (IIIT) - Dharwad</li>
   <li>Currently exploring DevOps and Data Structures & Algorithms</li>
   <li>Interested in building practical projects that solve real-world problems</li>
 </ul>
