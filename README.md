@@ -1,33 +1,69 @@
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
-<h1 align="center">Hi 👋, I'm Shreedhar K B</h1>
-<h3 align="center">🚀 A versatile Computer Science student & cloud enthusiast from India</h3>
+<h1 align="center">Hello Everyone, I'm Shreedhar K B</h1>
 
----
+<ul>
+  <li>Engineering Student at Indian Institute of Information Technology - Dharwad (IIIT)</li>
+  <li>Currently exploring DevOps and Data Structures & Algorithms</li>
+  <li>Interested in building practical projects that solve real-world problems</li>
+</ul>
 
-### 👨‍💻 About Me
+<hr/>
 
-- 🎓 I am a Computer Science and Engineering student at the Indian Institute of Information Technology, Dharwad
-- 💬 Ask me about React, Node, and Docker
-- 📫 Reach me at: [shreedharkb4@gmail.com](mailto:shreedharkb4@gmail.com) 
+<h2 align="left">Technologies and Skills</h2>
 
----
+<h4>Languages</h4>
 
-### 🧠 Learning & Growth
-
-- 🛠️ Building reliable software solutions and integrating cloud platforms to solve real-world challenges
-- 🔐 Building side projects on secure, scalable backend systems
-- 🧩 Expanding my knowledge in operating systems and networking architectures
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/shreedharkb" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/shreedharkb" target="blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,java" />
 </p>
 
-### 🛠️ Tech Stack & Tools
+<h4>Frontend Development</h4>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
+
+<h4>Backend and APIs</h4>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+</p>
+
+<h4>Databases</h4>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+</p>
+
+<h4>DevOps, Cloud & Tools</h4>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,jenkins,postman,vercel,vscode,powershell,notion" />
+</p>
+
+<hr/>
+
+<h2 align="center">GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,express,tailwind,docker,git,linux,mongodb,mysql,postman,powershell,latex,anaconda,windows,jenkins,notion,postgres,prisma,redis,vercel,vscode" alt="Shreedhar's Tech Stack" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreedharkb&theme=tokyo-night"/>
+</p>
+
+<hr/>
+
+<h2 align="center">Reach Me Out</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/shreedharkb">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:shreedharkb4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://discord.com/">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/>
+  </a>
 </p>
