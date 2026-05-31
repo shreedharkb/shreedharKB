@@ -56,14 +56,14 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/shreedharkb">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
   <a href="mailto:shreedharkb4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
   <a href="https://discord.com/">
-    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
