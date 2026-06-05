@@ -81,6 +81,4 @@
 
 <h2 align="center">License</h2>
 
-<p align="center">
-  This profile README is licensed under the <a href="./LICENSE">MIT License</a>.
-</p>
+
