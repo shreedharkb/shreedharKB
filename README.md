@@ -79,6 +79,6 @@
 
 <hr/>
 
-<h2 align="center">License</h2>
+
 
 
