@@ -44,6 +44,15 @@
 
 <hr/>
 
+<h2 align="center">GitHub Summary</h2>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreedharkb&theme=tokyonight&exclude=html,css"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreedharkb&theme=tokyonight&utcOffset=5.5"/>
+</p>
+
+<hr/>
+
 <h2 align="center">GitHub Activity</h2>
 
 <p align="center">
