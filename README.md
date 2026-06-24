@@ -15,25 +15,25 @@
 <h4>Languages</h4>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,java" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java" />
 </p>
 
 <h4>Frontend Development</h4>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
 </p>
 
 <h4>Backend and APIs</h4>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,prisma" />
 </p>
 
 <h4>Databases</h4>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,redis" />
 </p>
 
 <h4>DevOps, Cloud & Tools</h4>
