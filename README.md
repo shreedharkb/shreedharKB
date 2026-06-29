@@ -34,18 +34,22 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,redis" />
+  <img src="https://img.shields.io/badge/Qdrant-cb3837?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" />
 </p>
 
 <h4>GenAI Tools</h4>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=flat-square&logo=langchain&logoColor=black" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-FFFFFF?style=flat-square&logo=langchain&logoColor=black" alt="LangGraph" />
 </p>
 
 <h4>DevOps, Cloud & Tools</h4>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,jenkins,azure,postman,vercel,vscode,powershell,notion" />
+  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=white" alt="Render" />
 </p>
 
 <hr/>
@@ -53,7 +57,7 @@
 <h2 align="center">GitHub Summary</h2>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreedharkb&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreedharkb&theme=tokyonight&layout=compact&langs_count=5"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreedharkb&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
