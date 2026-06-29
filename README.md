@@ -40,8 +40,6 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch" />
-  <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=flat-square&logo=langchain&logoColor=black" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-FFFFFF?style=flat-square&logo=langchain&logoColor=black" alt="LangGraph" />
 </p>
 
 <h4>DevOps, Cloud & Tools</h4>
