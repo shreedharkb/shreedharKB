@@ -15,7 +15,7 @@
 <h4>Languages</h4>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js" />
 </p>
 
 <h4>Frontend Development</h4>
@@ -36,10 +36,16 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,redis" />
 </p>
 
+<h4>GenAI Tools</h4>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+</p>
+
 <h4>DevOps, Cloud & Tools</h4>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,jenkins,postman,vercel,vscode,powershell,notion" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,jenkins,azure,postman,vercel,vscode,powershell,notion" />
 </p>
 
 <hr/>
@@ -47,7 +53,7 @@
 <h2 align="center">GitHub Summary</h2>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreedharkb&theme=tokyonight&exclude=html,css"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreedharkb&theme=tokyonight"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreedharkb&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
