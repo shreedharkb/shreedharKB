@@ -45,7 +45,7 @@
 <h4>DevOps, Cloud & Tools</h4>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,jenkins,azure,postman,vercel,vscode,powershell,notion" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,jenkins,azure,postman,vercel,vscode,powershell,notion,nginx" />
 </p>
 
 <hr/>
