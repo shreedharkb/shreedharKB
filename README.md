@@ -73,15 +73,16 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/shreedharkb">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-
+  <a href="https://shreedharkb-dev.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
   <a href="mailto:shreedharkb4@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-
-  <a href="https://discord.com/">
-    <img src="https://skillicons.dev/icons?i=discord" />
+  <a href="https://github.com/shreedharkb">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
 
