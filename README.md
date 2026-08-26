@@ -36,12 +36,6 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,redis" />
 </p>
 
-<h4>GenAI Tools</h4>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-</p>
-
 <h4>DevOps, Cloud & Tools</h4>
 
 <p align="left">
