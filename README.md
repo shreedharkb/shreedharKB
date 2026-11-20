@@ -10,9 +10,9 @@
 
 - **Academics:** B.Tech in Computer Science and Engineering at **IIIT Dharwad** (2023–2027).
 - **Leadership:** Chair of the **IEEE Student Branch**, IIIT Dharwad — organising technical events across the campus community.
-- **Current Focus:** Retrieval quality, agent routing, and the unglamorous layers between "the model answered" and "someone can use this."
-- **Deep Dives:** RAG architectures, async job design, backend infrastructure.
-- **Ask Me About:** LangGraph agents, hybrid BM25 + dense search, semantic grading, or queueing a slow model so a user never waits on it.
+- **Current Focus:** Backend architecture, retrieval systems, and making AI features reliable.
+- **Deep Dives:** RAG pipelines, async job queues, system design.
+- **Ask Me About:** Semantic search, LangGraph agents, or grading answers that have no exact match.
 
 ---
 
