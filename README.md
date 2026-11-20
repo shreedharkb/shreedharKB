@@ -12,7 +12,7 @@
 - **Leadership:** Chair of the **IEEE Student Branch**, IIIT Dharwad — organising technical events across the campus community.
 - **Current Focus:** Backend architecture, retrieval systems, and making AI features reliable.
 - **Deep Dives:** RAG pipelines, async job queues, system design.
-- **Ask Me About:** Semantic search, LangGraph agents, or grading answers that have no exact match.
+- **Ask Me About:** System design, C++, RAG pipelines, or how to make retrieval actually return the right chunk.
 
 ---
 
@@ -54,6 +54,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Core CS**
+`System Design` · `Data Structures & Algorithms` · `OOP` · `Operating Systems` · `Computer Networks` · `DBMS`
 
 ---
 
