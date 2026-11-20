@@ -11,8 +11,7 @@
 - **Academics:** B.Tech in Computer Science and Engineering at **IIIT Dharwad** (2023–2027).
 - **Leadership:** Chair of the **IEEE Student Branch**, IIIT Dharwad — organising technical events across the campus community.
 - **Current Focus:** Backend architecture, retrieval systems, and making AI features reliable.
-- **Deep Dives:** RAG pipelines, async job queues, system design.
-- **Ask Me About:** System design, C++, RAG pipelines, or how to make retrieval actually return the right chunk.
+- **Ask Me About:** System design, C++, RAG pipelines, UI or Cloud Computing.
 
 ---
 
