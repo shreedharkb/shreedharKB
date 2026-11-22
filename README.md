@@ -1,17 +1,8 @@
 # Shreedhar K B
 
-**Full-stack Developer | Applied AI | Systems Tinkerer**
+**Full-stack Developer | Applied AI **
 
 > B.Tech CSE undergrad at IIIT Dharwad. I build agentic AI systems and the full-stack products that put them in front of users.
-
----
-
-### /about-me
-
-- **Academics:** B.Tech in Computer Science and Engineering at **IIIT Dharwad** (2023–2027).
-- **Leadership:** Chair of the **IEEE Student Branch**, IIIT Dharwad — organising technical events across the campus community.
-- **Current Focus:** Backend architecture, retrieval systems, and making AI features reliable.
-- **Ask Me About:** System design, C++, RAG pipelines, UI or Cloud Computing.
 
 ---
 
@@ -53,9 +44,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Core CS**
-`System Design` · `Data Structures & Algorithms` · `OOP` · `Operating Systems` · `Computer Networks` · `DBMS`
 
 ---
 
