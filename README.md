@@ -1,6 +1,6 @@
 # Shreedhar K B
 
-**Full-stack Developer | Applied AI **
+Full-stack Developer | Applied AI 
 
 > B.Tech CSE undergrad at IIIT Dharwad. I build agentic AI systems and the full-stack products that put them in front of users.
 
